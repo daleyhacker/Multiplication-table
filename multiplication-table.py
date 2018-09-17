@@ -30,13 +30,12 @@ finish = height + 1
 finish1 = width + 1
 
 
-while height ==
-for i in range(start, finish):
+for i in range(start, finish1):
     print(i, end="")
 print("")
 for i in range(start1, finish):
     print(i)
-
+for
 
 
 
