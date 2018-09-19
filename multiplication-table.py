@@ -31,18 +31,19 @@ finish1 = width + 1
 
 
 for i in range(start, finish1):
-    print(i, end="")
+    print(i, end=" ")
 print("")
-for i in range(start1, finish):
-    print(i)
-for
+for j in range(start1, finish):
+    print(j)
+
+
 
 
 
 
 """
 for i in range(0, 10):
-	print(i, end="")
-print("")
+	print(i, end=" ")
+print(" ")
 """
 
