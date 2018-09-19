@@ -30,11 +30,11 @@ finish = height + 1
 finish1 = width + 1
 
 
-for i in range(start, finish1):
-    print(i, end=" ")
-print("")
-for j in range(start1, finish):
-    print(j)
+
+for j in range(start, finish):
+    for i in range(start, finish1):
+        print(i*j, end=" ")
+    print("")
 
 
 
