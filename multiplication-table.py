@@ -37,13 +37,3 @@ for j in range(start, finish):
     print("")
 
 
-
-
-
-
-"""
-for i in range(0, 10):
-	print(i, end=" ")
-print(" ")
-"""
-
