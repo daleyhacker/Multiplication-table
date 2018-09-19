@@ -33,7 +33,7 @@ finish1 = width + 1
 
 for j in range(start, finish):
     for i in range(start, finish1):
-        print(i*j, end=" ")
+        print(i*j, end="")
     print("")
 
 
